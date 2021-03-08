@@ -36,7 +36,7 @@
     "prompt": "1.0.0",
     "shelljs": "0.6.0",
     "source-map-support": "0.4.0",
-    "webpack": "1.12.13",
+    "webpack": "2.2.0",
     "webpack-dev-server": "1.14.1"
   },
   "devDependencies": {
